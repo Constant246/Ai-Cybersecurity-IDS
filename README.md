@@ -1,6 +1,5 @@
-# AI-Cybersecurity-IDS
-
-Système de détection d'intrusion réseau (IDS) propulsé par le Machine Learning (modèle XGBoost entraîné sur NSL-KDD), avec un système de notifications d'alertes en temps réel.
+# AI-Cybersecurity-ID
+Mini PROJET : Système de détection d'intrusion réseau grâce au Machine Learning (XGBoost + NSL-KDD) avec notifications automatiques sur Discord.
 
 # 📸 Aperçu d'une alerte
 
